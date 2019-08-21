@@ -1,0 +1,7 @@
+project/app.db
+env
+.pytest_cache
+.vscode
+.dockerignore
+Dockerfile
+migrations
